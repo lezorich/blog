@@ -9,10 +9,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Lukas Zorich
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Computer Science student at Pontificia Universidad Católica of Chile'
+url:              http://blog.lukaszorich.com
 baseurl:          /
 
 author:
@@ -22,7 +22,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          3.2.1
+# version:          3.2.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/lezorich/blog
