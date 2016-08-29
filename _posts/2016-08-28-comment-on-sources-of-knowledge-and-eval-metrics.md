@@ -16,14 +16,17 @@ I think that first part of the chapter explains very well the different types
 of recommender systems, giving some example algorithms with their strengths
 and weaknesses.
 
-In the sources of knowledge section, the authors talk about context data as 
-input for recommendation systems. In particular, they mention the proliferation
+In the sources of knowledge section, the authors talked about context data as
+input for recommendation systems. In particular, they mention that now, with the proliferation
 of mobile devices, recommendation systems can now use the user location
-information to make better recommendations. But the author didn't mention 
-
+information to make better recommendations. But the authors didn't mention the
+precautions we need to have before using the user location data. For example,
+some users may prefer **not** to share their location with the system, so
+usually before tracking the user location, we need to explicitly ask the user
+if they accept it or not in order to respect their privacy.
 
 Lastly, in the evaluation metrics I found most metrics very clear to
-understand, except **Intra-list Similiarity**. When talking about Intra-list 
+understand, except **Intra-list Similiarity**. When talking about Intra-list
 Similarity metric, defined as
 
 $$
